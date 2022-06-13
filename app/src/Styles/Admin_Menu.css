@@ -1,0 +1,45 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.SplitPane{
+    display: flex;
+}
+
+Form{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.frmgr{
+    margin: 10px;
+}
+
+.b{
+    display: flex;
+}
+
+.imgc{
+    border-radius: 10px;
+    margin: 5px;
+}
+
+Card{
+    margin: 20px;
+}
+
+.spiscont{
+    margin: 20px;
+}
+
+.btnsub{
+    background-color: #0d6efd;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.flex-column{
+    margin-left: 20px;
+    margin-top: 20px;
+}
